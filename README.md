@@ -1,4 +1,5 @@
-I conducted an analysis of Uber’s bookings in the year 2024, with the aim of knowing the performance of the service and the behavior of customers and drivers.
+I conducted an analysis of Uber’s bookings in the year 2024,
+with the aim of knowing the performance of the service and the behavior of customers and drivers.
 1 - Cards (general performance summary):
 Total Booking = 150K
 This means 150 thousand trips were made during the year.
